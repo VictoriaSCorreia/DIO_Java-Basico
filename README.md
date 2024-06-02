@@ -1,4 +1,4 @@
-### Exercitando o uso da classe Scanner ao simular um registro bancário com os campos:
+### Exercitando o uso da classe Scanner no Java ao simular um registro bancário com os seguintes campos:
 
 * Numero
 * Agencia
